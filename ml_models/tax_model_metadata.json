@@ -1,0 +1,22 @@
+{
+  "model_type": "XGBRegressor",
+  "feature_names": [
+    "total_income",
+    "salary_income",
+    "business_income",
+    "capital_gains",
+    "total_deductions",
+    "taxable_income",
+    "fiscal_year",
+    "income_diversity",
+    "deduction_ratio",
+    "log_total_income",
+    "log_taxable_income"
+  ],
+  "trained_at": "2025-11-06T07:59:46.787416",
+  "hyperparameters": {
+    "n_estimators": 300,
+    "learning_rate": 0.1,
+    "max_depth": 6
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "model_type": "IsolationForest",
+  "feature_names": [
+    "log_amount",
+    "amount_zscore",
+    "is_round_amount",
+    "merchant_frequency",
+    "category_frequency",
+    "hour_of_day",
+    "day_of_week",
+    "is_weekend"
+  ],
+  "trained_at": "2025-10-25T21:23:35.928210",
+  "contamination": 0.01
+}
